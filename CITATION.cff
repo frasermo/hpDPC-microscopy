@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated manuscript."
+title: "hpDPC Microscopy"
+type: software
+version: 1.0.0
+
+authors:
+  - family-names: "Montandon"
+    given-names: "Fraser"
+  - family-names: "Knopp"
+    given-names: "Jasmin"
+  - family-names: "Jacobs"
+    given-names: "Caron A."
+  - family-names: "Nicolls"
+    given-names: "Fred"
+
+repository-code: "https://github.com/frasermo/hpDPC-microscopy"
+license: "MIT"
+
+keywords:
+  - quantitative phase imaging
+  - hpDPC
+  - polarization differential phase contrast
+  - pDPC
+  - transport of intensity equation
+  - TIE
+  - computational microscopy
+  - phase imaging

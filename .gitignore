@@ -1,0 +1,37 @@
+# MATLAB temporary and generated files
+*.asv
+*.m~
+*.autosave
+*.fig
+*.mat
+*.slxc
+slprj/
+sccprj/
+codegen/
+*.mex*
+
+# Generated outputs
+publication_figures/
+output/
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Large working-data directories should remain outside the software repo
+data/
+raw/
+intermediate/
+*.ome.tif
+*.ome.tiff
