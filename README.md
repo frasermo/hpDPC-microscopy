@@ -6,6 +6,9 @@ MATLAB code and a representative worked example accompanying the manuscript:
 
 This repository contains the hpDPC spectral-fusion implementation, the simulation used to illustrate the method, and one compact A549 example for reproducing the fusion step from precomputed phase maps.
 
+**Software:** [https://doi.org/10.5281/zenodo.22962324](https://doi.org/10.5281/zenodo.22962324) 
+
+**Supporting dataset:** [https://doi.org/10.5281/zenodo.22831229](https://doi.org/10.5281/zenodo.22831229)
 ## Scope
 
 The public fusion code operates on **precomputed pDPC and TIE phase reconstructions**. 
@@ -132,7 +135,7 @@ A separate Zenodo dataset will archive the larger supporting data package. It is
 - metadata and data dictionaries;
 - additional publication examples.
 
-**Dataset DOI:** to be added when the dataset is released.
+**Dataset DOI:** [https://doi.org/10.5281/zenodo.22831229](https://doi.org/10.5281/zenodo.22831229)
 
 ## Citation
 
@@ -140,7 +143,9 @@ This repository accompanies the manuscript:
 
 > F. Montandon, J. Knopp, C. A. Jacobs, and F. Nicolls, “Hybrid Transport-of-Intensity and Polarization Differential Phase Contrast for Extended Spatial-Frequency Phase Imaging,” submitted for publication, 2026.
 
-A version-specific Zenodo DOI for the software release will be added when the release is archived.
+The software release associated with the manuscript is archived on Zenodo:
+
+**Software DOI:** [https://doi.org/10.5281/zenodo.22962324](https://doi.org/10.5281/zenodo.22962324)
 
 The final journal citation and article DOI will be added after publication. Machine-readable citation metadata are provided in `CITATION.cff`.
 
@@ -175,3 +180,6 @@ Additional affiliations are given in the associated manuscript.
 ## Contact
 
 For questions about the software or supporting data, please contact the corresponding author or open an issue in this repository.
+
+
+[def]: [https://doi.org/10.5281/zenodo.22962324](https://doi.org/10.5281/zenodo.22962324)
